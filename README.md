@@ -1,2 +1,2 @@
 # Two Activities
-![two_activities](https://github.com/roshanbhatta/Activities-and-Intents/blob/main/two_activities.gif)
+<img src="https://github.com/roshanbhatta/Activities-and-Intents/blob/main/two_activities.gif" width="30%">
